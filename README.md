@@ -2,7 +2,7 @@
 ## Main Window:
 ![min window](https://user-images.githubusercontent.com/119451645/209453891-fd3857e3-e113-49b3-b5c3-7b76a34a9e80.png)
 ## Instertion Sort:
-#### when you clickd Instertion Sort button on Main Window:####
+#### when you clickd Instertion Sort button on Main Window:
 ![insrtion sort](https://user-images.githubusercontent.com/119451645/209453937-8c3ea45e-d29c-49c5-a601-9f52d94afeb0.png)
 ## Selection Sort:
 #### when you clickd Selection Sort button on Main Window:
@@ -13,6 +13,7 @@
 * ![ask kay](https://user-images.githubusercontent.com/119451645/209454250-38819128-c967-4d30-918a-2dce222636a1.png)
 2. when you clickd Ok button on asking number Window
 * ![binary](https://user-images.githubusercontent.com/119451645/209454362-da727596-8395-4620-a5b8-18ee84df3a0e.png)
+
 
 
 
