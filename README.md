@@ -20,7 +20,9 @@
 2. when you clickd Ok button on asking number of vertices Window
    ##### you show this Window many times
   * ![v1](https://user-images.githubusercontent.com/119451645/209454651-835edb72-aba3-49ad-8542-78e131e21181.png)
-  * 
+3. when you clickd cancel button on add edges to graph Window
+   * ![fia](https://user-images.githubusercontent.com/119451645/209454816-9ac508e3-6bb2-42cd-ab05-a8726315c304.png)
+
 
 
 
