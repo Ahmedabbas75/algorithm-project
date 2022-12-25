@@ -10,9 +10,9 @@
 ## Binary Search
 #### when you clickd Binary Search button on Main Window:
 1. You show window ask you number want to search it
-* ![ask kay](https://user-images.githubusercontent.com/119451645/209454250-38819128-c967-4d30-918a-2dce222636a1.png)
+![ask kay](https://user-images.githubusercontent.com/119451645/209454250-38819128-c967-4d30-918a-2dce222636a1.png)
 2. when you clickd Ok button on asking number Window
-* ![binary](https://user-images.githubusercontent.com/119451645/209454362-da727596-8395-4620-a5b8-18ee84df3a0e.png)
+![binary](https://user-images.githubusercontent.com/119451645/209454362-da727596-8395-4620-a5b8-18ee84df3a0e.png)
 
 
 
