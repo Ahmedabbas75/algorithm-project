@@ -13,6 +13,12 @@
 * ![ask kay](https://user-images.githubusercontent.com/119451645/209454250-38819128-c967-4d30-918a-2dce222636a1.png)
 2. when you clickd Ok button on asking number Window
 * ![binary](https://user-images.githubusercontent.com/119451645/209454362-da727596-8395-4620-a5b8-18ee84df3a0e.png)
+## Kruskal’s Algorithm
+#### when you clickd Kruskal’s Algorithm button on Main Window:
+1. You show window ask you number of vertices
+* ![num v](https://user-images.githubusercontent.com/119451645/209454509-d7d41376-64db-40b6-b92b-5f1c447a2f9d.png)
+
+
 
 
 
