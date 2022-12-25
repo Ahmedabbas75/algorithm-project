@@ -16,9 +16,9 @@
 ## Kruskal’s Algorithm
 #### when you clickd Kruskal’s Algorithm button on Main Window:
 1. You show window asking you number of vertices
-* ![num v](https://user-images.githubusercontent.com/119451645/209454509-d7d41376-64db-40b6-b92b-5f1c447a2f9d.png)
+ * ![num v](https://user-images.githubusercontent.com/119451645/209454509-d7d41376-64db-40b6-b92b-5f1c447a2f9d.png)
 2. when you clickd Ok button on asking number of vertices Window
-* ![v1](https://user-images.githubusercontent.com/119451645/209454651-835edb72-aba3-49ad-8542-78e131e21181.png)
+  * ![v1](https://user-images.githubusercontent.com/119451645/209454651-835edb72-aba3-49ad-8542-78e131e21181.png)
 
 
 
